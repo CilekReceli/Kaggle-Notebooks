@@ -1,10 +1,1 @@
-# How To Use MCC Step by Step
-
-Bu notebook, Matthews Correlation Coefficient (MCC) kavramını örneklerle ve görsellerle açıklar.
-
-## İçerik:
-- MCC nedir?
-- Binary sınıflandırmalarda neden önemlidir?
-- Python ile örnek MCC hesaplama adımları
-
-📘 Kaggle'da Görüntüle: [https://www.kaggle.com/code/karamel03/how-to-use-mcc-step-by-step](https://www.kaggle.com/code/karamel03/how-to-use-mcc-step-by-step)
+add how-to-use-mcc notebook
